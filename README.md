@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huanganya
-- 👀 I’m interested in react/react native, node.js, unit test with jest
-- 🌱 I’m currently learning docker/kubenetes
+- 👀 I’m interested in react/react native, node.js, unit tests, e2e test, and cloud platforms such as aws/azure
+- 🌱 I’m currently learning Low/No Code, API tools
 - 💞️ I’m looking to collaborate on full stack development.
 - 📫 How to reach me amyhuanganya@gmail.com
 
