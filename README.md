@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huanganya
+- 👋 Hi, I’m @huanganya, currently I am a tech lead in Activate Interactive Singapore.
 - 👀 I’m interested in react/react native, node.js, unit tests, e2e test, and cloud platforms such as aws/azure
 - 🌱 I’m currently learning AI tools such as copilot for development and also concept of Low/No Code development
 - 💞️ I’m looking to collaborate on full stack development.
